@@ -33,3 +33,7 @@ main {
     text-align: center;
     color: red;
 }
+
+.nameInput {
+    align-items: auto;
+}
