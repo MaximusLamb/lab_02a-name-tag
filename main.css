@@ -1,9 +1,9 @@
 body {
     border-color: black;
-    border-style: rounded;
     width: 400px;
     height: 300px;
     margin: auto;
+    border-radius; 200px;
 }
 
 section {
@@ -14,15 +14,22 @@ section {
 header {
     color: white;
     background-color: red;
-    border-color: black;
+    border: solid black 2px;
     text-align: center;
     margin: 0px;
-    
 }
 h1 {
     margin: 0px;
 }
 main {
     text-align: center;
-    font-style: 
+}
+
+.mynameis {
+    font-size: 30px;
+}
+
+.myButton {
+    text-align: center;
+    color: red;
 }
